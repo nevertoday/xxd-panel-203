@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 203｜Impasto Vignette Art Postcard: reduces a photo to a small vignette scene, placed like a stamp in generous whitespace, off-centre, touching an edge or cropped, and paints it as a painterly impasto miniature — clear but restrained block strokes, palette-knife marks and slight paint build-up, with leaves, walls, water, clouds and ground organised as simplified patches of thick paint. Cream, off-white and pale grey-white grounds are balanced by light grey-blue, misty blue and soft sky blue, with one or two bright colours from the photo such as golden yellow, apricot, grass green or lake blue as the focus. The layout reads like an art postcard, with a small title, note or number in a corner. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-203 or asks for impasto, palette-knife or painterly postcard vignettes from a photo.",
+  "short_description": "留白厚涂明信片：把照片画成一枚厚涂油画小景，落在大片留白里，像一张艺术明信片",
+  "zh-CN": {
+    "name": "留白厚涂明信片",
+    "tagline": "把照片画成一枚厚涂油画小景，落在大片留白里，像一张艺术明信片。",
+    "look": "照片被概括成一个小小的场景，像一枚章印落在留白里，可以偏心、贴边或局部裁切。画法是厚涂油画小景，用块状笔触、刮刀痕和轻微的颜料堆积组织树叶、墙面、水面、云和地面，不细碎描摹。底色是奶油白、米白、浅灰白，配浅灰蓝、雾蓝、柔和天蓝做冷色平衡，再挑一两种原图里明亮的颜色做焦点，如金黄、杏橙、草绿、湖蓝。版式像艺术明信片，边角有少量小标题、注释或编号。",
+    "traits": ["厚涂肌理", "小景插画", "明信片版式", "清透冷暖", "大片留白"],
+    "good": [
+      "有天光和植物的风景片段：海边小屋、树下长椅、阳台、田间小路",
+      "有一处明亮颜色的场景：黄色的窗、橙色的屋顶、绿色的门",
+      "想做明信片、旅行纪念或文艺配图的照片"
+    ],
+    "poor": [
+      "需要精细线条和清楚细节的照片：建筑测绘、产品图、人像特写",
+      "灯光昏暗、色调沉重的夜景或室内照",
+      "想要满版风景、光滑矢量或照片滤镜效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Impasto Vignette Art Postcard",
+    "tagline": "Paints a photo as a small impasto scene set in wide whitespace, like an art postcard.",
+    "look": "Your photo is summed up as a small scene that sits in the whitespace like a stamp; it can be off-centre, touch an edge or be cropped. It is painted as a thick-paint miniature, with block strokes, palette-knife marks and slight build-up of paint shaping the leaves, walls, water, clouds and ground, rather than fine detail. The ground is cream, off-white or pale grey-white, balanced by light grey-blue, misty blue and soft sky blue, with one or two bright colours from the photo as the focus, such as golden yellow, apricot, grass green or lake blue. The layout feels like an art postcard, with a small title, note or number in a corner.",
+    "traits": ["Impasto texture", "Small scene", "Postcard layout", "Clear cool-warm balance", "Wide whitespace"],
+    "good": [
+      "Landscape fragments with daylight and plants: a seaside hut, a bench under a tree, a balcony, a path through fields",
+      "Scenes with one bright colour: a yellow window, an orange roof, a green door",
+      "Photos you want as a postcard, travel keepsake or literary illustration"
+    ],
+    "poor": [
+      "Photos that need fine lines and clear detail: architectural surveys, product shots, close-up portraits",
+      "Dim, heavy-toned night scenes or interiors",
+      "Requests for a full-frame landscape, smooth vector or a photo-filter look"
+    ]
+  },
+  "ja": {
+    "name": "余白を活かす厚塗り絵葉書",
+    "tagline": "写真を厚塗りの油彩の小さな景色にして大きな余白に置き、アートな絵葉書のように仕上げます。",
+    "look": "写真を小さな一場面に要約し、判子を押したように余白の中に置きます。中心を外したり、端に寄せたり、一部を切り取ったりしてもかまいません。描き方は厚塗りの油彩の小品で、ブロック状の筆致、ペインティングナイフの跡、わずかな絵具の盛り上がりで木の葉、壁、水面、雲、地面をまとめ、細かく描き込みはしません。地はクリーム白、生成り、淡いグレーがかった白で、淡い灰青、霧のような青、柔らかな空色で寒色のバランスをとり、写真の明るい色を一、二色選んで焦点にします。黄金色、杏色、草色、湖の青などです。レイアウトはアートな絵葉書のようで、隅に小さな見出し、注記、番号を添えます。",
+    "traits": ["厚塗りの質感", "小さな景色", "絵葉書のレイアウト", "澄んだ寒暖のバランス", "広い余白"],
+    "good": [
+      "空の光や植物がある風景の断片：海辺の小屋、木の下のベンチ、バルコニー、畑の小道",
+      "明るい色が一か所ある場面：黄色い窓、橙色の屋根、緑の扉",
+      "絵葉書、旅の記念、文芸的な挿絵にしたい写真"
+    ],
+    "poor": [
+      "細い線とはっきりした細部が必要な写真：建築の実測図、商品写真、人物のアップ",
+      "照明が暗く色調の重い夜景や室内の写真",
+      "画面いっぱいの風景、滑らかなベクター、写真フィルターのような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "여백을 살린 임파스토 엽서",
+    "tagline": "사진을 두껍게 칠한 유화 소품으로 그려 넓은 여백에 두고, 아트 엽서처럼 꾸밉니다.",
+    "look": "사진을 작은 장면 하나로 요약해 도장을 찍듯 여백 속에 놓습니다. 중심에서 비켜나거나 가장자리에 붙거나 일부가 잘려도 됩니다. 그림은 두껍게 칠한 유화 소품으로, 덩어리진 붓질, 나이프 자국, 살짝 쌓인 물감으로 나뭇잎, 벽, 수면, 구름, 땅을 정리하고 잘게 묘사하지 않습니다. 바탕은 크림색, 미색, 연한 회백색이고 연한 회청색, 안개 파랑, 부드러운 하늘색으로 차가운 균형을 잡으며, 사진에서 밝은 색 한두 가지를 골라 초점으로 씁니다. 황금색, 살구 주황, 풀빛 초록, 호수 파랑 같은 색입니다. 레이아웃은 아트 엽서 같고 모서리에 작은 제목, 주석, 번호를 둡니다.",
+    "traits": ["임파스토 질감", "작은 풍경", "엽서 레이아웃", "맑은 한난 균형", "넓은 여백"],
+    "good": [
+      "하늘빛과 식물이 있는 풍경 조각: 바닷가 오두막, 나무 아래 벤치, 발코니, 들길",
+      "밝은 색이 한 곳 있는 장면: 노란 창문, 주황 지붕, 초록 문",
+      "엽서, 여행 기념, 감성 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "가는 선과 분명한 디테일이 필요한 사진: 건축 실측, 상품 사진, 인물 클로즈업",
+      "조명이 어둡고 색조가 무거운 야경이나 실내 사진",
+      "꽉 찬 풍경, 매끈한 벡터, 사진 필터 같은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بطاقة فنية بمشهد ذي طلاء كثيف",
+    "tagline": "يرسم الصورة مشهداً صغيراً بطلاء زيتي كثيف وسط فراغ واسع، كأنها بطاقة بريدية فنية.",
+    "look": "تُلخَّص صورتك في مشهد صغير يستقر في الفراغ كأنه ختم؛ قد يبتعد عن المركز أو يلامس حافة أو يُقتطع جزء منه. يُرسم بطلاء زيتي كثيف، بضربات كتلية وآثار سكين الرسم وتراكم خفيف للطلاء تُشكّل الأوراق والجدران والماء والغيوم والأرض، من دون تفاصيل دقيقة. الأرضية كريمية أو بيضاء مائلة إلى الكريمي أو رمادية بيضاء فاتحة، يوازنها أزرق رمادي فاتح وأزرق ضبابي وأزرق سماوي ناعم، مع لون أو لونين زاهيين من الصورة نقطةً للتركيز، مثل الأصفر الذهبي والمشمشي والأخضر العشبي والأزرق البحيري. يبدو التخطيط كبطاقة بريدية فنية، مع عنوان صغير أو ملاحظة أو رقم في إحدى الزوايا.",
+    "traits": ["ملمس طلاء كثيف", "مشهد صغير", "تخطيط بطاقة بريدية", "توازن صافٍ بين البارد والدافئ", "فراغ واسع"],
+    "good": [
+      "شذرات من مناظر فيها ضوء النهار ونباتات: كوخ على البحر، مقعد تحت شجرة، شرفة، درب بين الحقول",
+      "مشاهد فيها لون زاهٍ واحد: نافذة صفراء، سقف برتقالي، باب أخضر",
+      "صور تريدها بطاقة بريدية أو تذكار رحلة أو رسماً أدبياً"
+    ],
+    "poor": [
+      "صور تحتاج إلى خطوط دقيقة وتفاصيل واضحة: المسوحات المعمارية، صور المنتجات، الصور الشخصية القريبة",
+      "المشاهد الليلية أو الداخلية الخافتة ذات الدرجات الثقيلة",
+      "طلب منظر طبيعي يملأ الإطار أو رسم متجهي ناعم أو مظهر مرشّح فوتوغرافي"
+    ]
+  }
+}
